@@ -1,0 +1,21 @@
+# MyWunderTale
+
+> MyWunderTale is a free bedtime story app for iPhone, iPad and Android, made by Attain AI Labs LLC (Bellevue, Washington, USA). It reads original audio stories aloud with the child's name, and optionally a grown-up's ("Mom", "Dad", or a custom term), woven into every story. Narration is generated on the device by natural-sounding text-to-speech voices, so the app works fully offline, has no ads, needs no account, and keeps children's details on the phone.
+
+## Key facts
+
+- Platforms: iOS, iPadOS, Android. Language: English.
+- Price: free to download. No ads. No account or sign-up.
+- Audience: children roughly 3 to 11 years old; each story lists a suggested age range.
+- Personalization: child's first name, age and pronouns; stories for one child or two siblings together; optional grown-up character; adjustable, previewable name pronunciation.
+- Offline: narrator voices are installed with the app; no internet is needed to play stories.
+- Privacy: profiles stay on the device; no analytics or advertising SDKs; data is only sent when a grown-up submits feedback.
+- Themes: adventure, imagination, learning, feelings, morals, habits, bedtime, travel, fun.
+- Bedtime controls: sleep timer (15, 30 or 60 minutes), autoplay, reading speed 0.75x to 1.1x, read-along text, choice of narrator, ambient music, lock-screen controls, optional nightly storytime reminder, parental gate.
+
+## Links
+
+- Website: https://mywundertale.com/
+- Google Play: https://play.google.com/store/apps/details?id=com.attainailabs.mywundertale
+- App Store: https://apps.apple.com/us/app/mywundertale/id6794829972
+- Contact: info@attainAILabs.com
