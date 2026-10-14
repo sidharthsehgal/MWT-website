@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mywundertale.com/sitemap.xml
+
+# LLM Context: https://mywundertale.com/llms.txt

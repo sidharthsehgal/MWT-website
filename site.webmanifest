@@ -1,7 +1,7 @@
 {
   "name": "MyWunderTale",
   "short_name": "MyWunderTale",
-  "description": "Personalized bedtime audio stories starring your child.",
+  "description": "MyWunderTale : personalized audio stories where your kids are the main characters. Free. Works offline. No data collected.",
   "start_url": "./",
   "display": "browser",
   "background_color": "#101726",
